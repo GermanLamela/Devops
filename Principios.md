@@ -29,3 +29,64 @@ La infraestructura como código es un enfoque que permite gestionar y aprovision
 ### 4. Monitorización y Logging
 
 La monitorización y el logging son esenciales para el mantenimiento del rendimiento y la disponibilidad de las aplicaciones. Estas prácticas permiten detectar problemas en tiempo real y realizar un seguimiento del comportamiento de las aplicaciones.
+
+**Herramientas de Monitorización y Logging**
+
+- **Prometheus**: Herramienta de monitorización que recopila métricas y genera alertas basadas en condiciones definidas.
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Conjunto de herramientas para la búsqueda, análisis y visualización de logs en tiempo real.
+
+### 5. Cultura Colaborativa DevOps
+
+La cultura colaborativa en DevOps promueve la comunicación y el trabajo en equipo entre los departamentos de desarrollo y operaciones. Esta cultura se basa en la confianza, la transparencia y la responsabilidad compartida.
+
+## Herramientas DevOps por Fases
+
+### 1. Planificación
+
+- **Jira**: Herramienta de gestión de proyectos que permite planificar, rastrear y gestionar el desarrollo de software.
+- **Trello**: Plataforma visual que facilita la gestión de tareas mediante tableros y tarjetas.
+
+### 2. Gestión de Código
+
+- **Git**: Sistema de control de versiones distribuido que permite a los equipos colaborar en proyectos de desarrollo de software.
+- **GitHub**: Plataforma basada en Git que permite el almacenamiento y la colaboración en proyectos de software.
+
+### 3. Automatización de Pruebas
+
+- **Selenium**: Herramienta para automatizar pruebas de aplicaciones web.
+- **JUnit**: Framework para realizar pruebas unitarias en aplicaciones Java.
+
+### 4. Integración y Entrega Continua
+
+- **Jenkins**: Como se mencionó, es fundamental en la CI/CD.
+- **GitLab CI**: También se utiliza en esta fase.
+- **Prometheus**: Herramienta de monitorización que recopila métricas y genera alertas basadas en condiciones definidas.
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Conjunto de herramientas para la búsqueda, análisis y visualización de logs en tiempo real.
+
+### 5. Cultura Colaborativa DevOps
+
+La cultura colaborativa en DevOps promueve la comunicación y el trabajo en equipo entre los departamentos de desarrollo y operaciones. Esta cultura se basa en la confianza, la transparencia y la responsabilidad compartida.
+
+## Herramientas DevOps por Fases
+
+### 1. Planificación
+
+- **Jira**: Herramienta de gestión de proyectos que permite planificar, rastrear y gestionar el desarrollo de software.
+- **Trello**: Plataforma visual que facilita la gestión de tareas mediante tableros y tarjetas.
+
+### 2. Gestión de Código
+
+- **Git**: Sistema de control de versiones distribuido que permite a los equipos colaborar en proyectos de desarrollo de software.
+- **GitHub**: Plataforma basada en Git que permite el almacenamiento y la colaboración en proyectos de software.
+
+### 3. Automatización de Pruebas
+
+- **Selenium**: Herramienta para automatizar pruebas de aplicaciones web.
+- **JUnit**: Framework para realizar pruebas unitarias en aplicaciones Java.
+
+### 4. Integración y Entrega Continua
+
+- **Jenkins**: Como se mencionó, es fundamental en la CI/CD.
+- **GitLab CI**: También se utiliza en esta fase.
+
+### 5. Gestión de Configuración
