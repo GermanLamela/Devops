@@ -11,4 +11,4 @@ DevOps es una filosofía de trabajo que busca mejorar la colaboración y comunic
 4. [Opinión sobre la Oferta](https://github.com/GermanLamela/Devops/blob/main/OpinionOferta.md)
 5. [Casos Reales de Implementación de DevOps](https://github.com/GermanLamela/Devops/blob/main/CasosReales.md)
 
-[DevOps](https://github.com/GermanLamela/Devops/blob/main/Imagenes/DevOps-Cycle.png)
+![DevOps](https://github.com/GermanLamela/Devops/blob/main/Imagenes/DevOps-Cycle.png)
